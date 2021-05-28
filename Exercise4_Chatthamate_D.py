@@ -3,7 +3,7 @@ Your Score
 '''
 
 foueng = 80 # Foundation English
-genbus = 60.50 # General Business'''
+genbus = 60.50 # General Business
 introcom = 76.89 #Intraduction to computer systems
 compro = 90.99 # Computer Programming
 
