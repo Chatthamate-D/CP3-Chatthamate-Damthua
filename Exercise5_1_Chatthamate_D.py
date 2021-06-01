@@ -1,0 +1,10 @@
+num1 = 20
+num2 = 10
+result = num1+num2
+print("20 + 10 =",result)
+result1 = num1-num2
+print("20 - 10 =",result1)
+result2 = num1*num2
+print("20 * 10 =",result2)
+result3 = int(num1/num2)
+print("20 / 10 =",result3)
